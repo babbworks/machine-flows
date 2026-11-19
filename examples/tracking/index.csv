@@ -1,0 +1,6 @@
+id,file,sheet_name,title,description,owner,source,generated_by,updated,rows
+machines,machines.csv,Machines,Machine identities,"Optional machine labels and purposes; never use serial numbers or credentials",workspace owner,manual,manual,2026-11-19,0
+workspaces,workspaces.csv,Workspaces,Workspace registry,"Personal and group workspace roots, membership and sync preferences",workspace owner,manual,manual,2026-11-19,0
+scans,scans.csv,Scans,Scan history,"Local scan scope, date and review state; do not store raw output",workspace owner,manual,manual,2026-11-19,0
+tools,tools.csv,Tools,Tools and integrations,"Names and versions of tools, apps, extensions and MCPs; no configuration values",workspace owner,manual,manual,2026-11-19,0
+connections,connections.csv,Connections,Peer connections,"Peer aliases, transport and verification state; no device IDs, keys or IP addresses",workspace owner,manual,manual,2026-11-19,0

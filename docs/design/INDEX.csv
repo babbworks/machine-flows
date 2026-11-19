@@ -1,0 +1,6 @@
+number,file,title,topic,status
+03,03-sharing-ai-tool-config.md,Sharing AI-tool configuration across machines,"sync, links, settings, memory, transcripts",generic rewrite 2026-11-11
+05,05-building-blocks-research.md,"Building blocks: sync tool, tool config, MCP, dotfiles, secrets, hand-off, onboarding","research, sync, MCP, secrets, onboarding",generic rewrite 2026-11-11
+06,06-covering-several-ai-tools.md,Covering several AI tools from one source,"rules, skills, MCP, rollout, CLI names",generic rewrite 2026-11-11
+09,09-memory-and-lessons.md,Memory and lessons: keeping what agents learn small,"memory, lessons, review, caps",generic rewrite 2026-11-11
+10,10-public-allowlists.md,Public exports with an allowlist,"publishing, manifests, generic rewrites, review",generic guidance 2026-11-19

@@ -1,0 +1,19 @@
+# machine-flows-public: ordinary ignore file. The tree is produced by `mach publish`; do not hand-edit tracked files here.
+.stfolder/
+.stversions/
+.stignore
+.stglobalignore
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+*.log
+.DS_Store
+*.xlsx
+.env
+.env.*
+*.pem
+*.p12
+id_rsa*
+id_ed25519*
+credentials*.json

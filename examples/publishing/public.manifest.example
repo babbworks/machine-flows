@@ -1,0 +1,10 @@
+# Generic example for mach publish. Replace these sample paths for your project.
+# The exporter starts empty; only selected files can enter the public output.
+include README.md
+include docs/design/
+include examples/
+exclude inventory/
+# Export a reviewed generic rewrite at the public path instead of the local source.
+map docs/public/README.md docs/public-overview.md
+scan paths tickets names
+deny example-organization
